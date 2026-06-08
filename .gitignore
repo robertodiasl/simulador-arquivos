@@ -1,0 +1,20 @@
+# arquivos gerados pela compilacao do java
+*.class
+
+# arquivos gerados pela execucao do simulador
+src/disco.fs
+src/disco.journal
+disco.fs
+disco.journal
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# sistema operacional
+Thumbs.db
+.DS_Store
